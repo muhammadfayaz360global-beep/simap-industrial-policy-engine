@@ -1,0 +1,19 @@
+{
+  "request_id": "demo-001",
+  "user_id": "synthetic-user-07",
+  "authenticated": true,
+  "role": "maintenance-contractor",
+  "contractor_active": true,
+  "site": "Plant-A",
+  "zone": "Zone-03",
+  "shift_start": "2026-10-15T08:00:00+00:00",
+  "shift_end": "2026-10-15T16:00:00+00:00",
+  "permit_id": "TEST-PTW-123",
+  "permit_status": "valid",
+  "permit_start": "2026-10-15T09:00:00+00:00",
+  "permit_end": "2026-10-15T12:00:00+00:00",
+  "device_id": "demo-kiosk-1",
+  "device_approved": true,
+  "task": "ptw-acknowledge",
+  "requested_at": "2026-10-15T17:00:00+00:00"
+}

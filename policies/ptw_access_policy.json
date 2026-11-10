@@ -1,0 +1,10 @@
+{
+  "policy_id": "PTW-ACK-001",
+  "version": "0.1.0",
+  "sites": ["Plant-A"],
+  "zones": ["Zone-03"],
+  "roles": ["maintenance-contractor", "supervisor"],
+  "tasks": ["ptw-acknowledge"],
+  "max_session_minutes": 20,
+  "require_active_contractor": true
+}
